@@ -10,6 +10,8 @@ The official static portfolio and landing page for **Steel Defence Studios**, a 
 * **Developer:** Abdul Rumman
 * **Studio:** Steel Defence Studios
 * **YouTube:** [@steeldefencestudios](https://www.youtube.com/@steeldefencestudios)
+* **YouTube:** [@steeldefencestudiosassets](https://www.youtube.com/@steeldefencestudiosassets)
 * **Asset Store:** [Gumroad Profile](https://www.steeldefencestudios.org/)
 
 &copy; 2025 Steel Defence Studios. All rights reserved.
+
